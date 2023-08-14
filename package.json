@@ -159,5 +159,12 @@
         }
       ]
     ]
+  },
+  "dependencies": {
+    "@flyerhq/react-native-chat-ui": "^1.4.3",
+    "example": "^0.0.0",
+    "ios": "^0.0.1",
+    "react-native-document-picker": "^9.0.1",
+    "react-native-safe-area-context": "^4.7.1"
   }
 }
