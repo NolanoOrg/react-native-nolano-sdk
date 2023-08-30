@@ -1,6 +1,9 @@
 # react-native-nolano-sdk
 
-React native binding for runnning nolano's model locally 
+React native binding for runnning nolano's compressed model locally.  
+
+## Get Compressed Model
+Request compressed model from nolano: [here](https://docs.google.com/forms/d/e/1FAIpQLScDahFBFai0MZzJ4KbebHNuKZ4LVyzInoC5sDqUlaLFFk7bKQ/viewform?usp=sf_link)
 
 ## Installation
 
@@ -10,13 +13,7 @@ npm install react-native-nolano-sdk
 
 ## Usage
 
-```js
-import { multiply } from 'react-native-nolano-sdk';
-
-// ...
-
-const result = await multiply(3, 7);
-```
+check out the example app in the example folder
 
 ## Contributing
 
@@ -28,4 +25,4 @@ MIT
 
 ---
 
-Made with [create-react-native-library](https://github.com/callstack/react-native-builder-bob)
+Made with [create-react-native-library](https://github.com/callstack/react-native-builder-bob) and [llama.rn](https://github.com/mybigday/llama.rn)
