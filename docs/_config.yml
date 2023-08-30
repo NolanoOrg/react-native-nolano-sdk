@@ -40,13 +40,13 @@ features                                  :
     description                           : Running LLMs locally on your smartphone
     fontawesome_icon_name                 : magic
     
-  - title                                 : React Native SDK
+  - title                                 : Support both iOS and Android
     description                           : Support for React Native SDK for both iOS and Android
     fontawesome_icon_name                 : mobile
 
-  # - title                                 : Video Support
-  #   description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-  #   fontawesome_icon_name                 : play-circle
+  - title                                 : Compressed LLMs
+    description                           : Inbuilt compression of LLMs to reduce size
+    fontawesome_icon_name                 : play-circle
 
   # - title                                 : Automatic Icon and Metadata
   #   description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
