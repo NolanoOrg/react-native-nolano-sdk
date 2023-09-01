@@ -1,6 +1,10 @@
 # react-native-nolano-sdk
 
-React native binding for runnning nolano's compressed model locally.  
+Website: [Nolano's React Native SDK](https://nolanoorg.github.io/react-native-nolano-sdk/)
+
+React native binding for runnning nolano's compressed model locally. This is exeperimental package to see the feasibility of running nolano's compressed model locally on mobile devices. 
+
+The package is still under development and not ready for production use.
 
 ## Get Compressed Model
 Request compressed model from nolano: [here](https://docs.google.com/forms/d/e/1FAIpQLScDahFBFai0MZzJ4KbebHNuKZ4LVyzInoC5sDqUlaLFFk7bKQ/viewform?usp=sf_link)
